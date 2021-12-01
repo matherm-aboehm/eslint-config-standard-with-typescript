@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [21.0.2](https://github.com/standard/eslint-config-standard-with-typescript/compare/v21.0.1...v21.0.2) (2021-12-01)
+
+
+### Bug Fixes
+
+* **deps:** use inclusion dev dependency from own repo ([bb55d49](https://github.com/standard/eslint-config-standard-with-typescript/commit/bb55d495ce6bfad3feb41d9f3114f24f05e043ae))
+* peer-depend on any version of typescript ([3446e30](https://github.com/standard/eslint-config-standard-with-typescript/commit/3446e30dacdf019ee08f16b430cee876797a3a0c)), closes [#604](https://github.com/standard/eslint-config-standard-with-typescript/issues/604)
+* use linux line endings on windows ([775c2cb](https://github.com/standard/eslint-config-standard-with-typescript/commit/775c2cb73904da4ac205f4dfc90bd820b87d7655))
+
 ### [21.0.1](https://github.com/standard/eslint-config-standard-with-typescript/compare/v21.0.0...v21.0.1) (2021-08-31)
 
 ## [21.0.0](https://github.com/standard/eslint-config-standard-with-typescript/compare/v20.0.0...v21.0.0) (2021-08-29)
