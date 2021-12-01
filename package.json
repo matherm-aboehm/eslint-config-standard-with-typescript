@@ -82,7 +82,7 @@
     "eslint-plugin-node": "11.1.0",
     "eslint-plugin-promise": "5.1.1",
     "fs.promises": "0.1.2",
-    "inclusion": "1.0.1",
+    "inclusion": "git+https://github.com/matherm-aboehm/inclusion.git#fix-1",
     "js-yaml": "4.1.0",
     "npm-package-arg": "8.1.5",
     "npm-run-all": "4.1.5",

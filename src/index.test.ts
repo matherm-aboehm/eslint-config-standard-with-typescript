@@ -192,7 +192,7 @@ test('Dependencies range types', async (t) => {
     }
   }
   for (const [name, range] of Object.entries(ourDevDeps)) {
-    t.regex(range, /^\d/, `Dev dependency ${name} is exact`)
+    t.regex(range, /^\d|^git\+/, `Dev dependency ${name} is exact`)
   }
 })
 
